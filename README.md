@@ -1,0 +1,1 @@
+Bu repo, Murat Yücedağ'ın C# Eğitim Kampı'nda edindiğim bilgiler doğrultusunda tamamladığım ilk 8 projeyi içermektedir. Her proje, çeşitli programlama kavramlarını öğrenme ve bu kavramları pratiğe dökme becerilerimi geliştirmeme katkı sağladı.
